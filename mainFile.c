@@ -4,7 +4,7 @@ int main(){
         printf("Hello world");
         printf("New line");
 
-        printf("Second commit");
+        printf("Second");
         
         return 0;
 }
