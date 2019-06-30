@@ -2,7 +2,7 @@
 
 int main(){
         printf("Hello world");
-        printf("New line");
+        printf("New");
 
         printf("Second commit");
         
